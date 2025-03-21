@@ -1,14 +1,56 @@
 # Project
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This repository contains the implementation of **Epicoder**, a pipeline designed for code instruction synthesis, encompassing diverse and complex code generation. This work is associated with the paper:  
+**[EpiCoder: Encompassing Diversity and Complexity in Code Generation](https://arxiv.org/abs/2501.04694).**  
 
-As the maintainer of this project, please make a few updates:
+## Pipeline Overview  
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+The Epicoder pipeline consists of multiple stages, starting from raw code feature extraction and evolving through code generation, debugging, and testing. Below is a step-by-step breakdown of the pipeline:  
+
+### **Setup**  
+Before running the pipeline, set up the `PYTHONPATH`:  
+
+```bash
+export PYTHONPATH=$(pwd):$PYTHONPATH
+```
+
+### **Steps in the Pipeline**  
+
+#### **1. Feature Extraction**  
+- `python extract/extract_features.py`  
+  Extracts features from raw code.  
+- `python extract/extract_frequency_count.py`  
+  Counts the frequency of features and identifies the top frequent features, saving the results as a JSON file.  
+- `python extract/extract_separate_frequency.py`  
+  Separates and saves feature frequencies and features individually.  
+
+#### **2. Feature Evolution**  
+- `python evol/feature_evol.py`  
+  Evolves the features based on the extracted data.  
+- `python evol/merge_expanded_features.py`  
+  Merges the evolved features with the original ones.  
+
+#### **3. Instruction and Code Generation**  
+- `python gen/gen_question.py`  
+  Generates questions or tasks based on the feature set.  
+- `python gen/gen_code.py`  
+  Generates code according to the tasks created.  
+
+#### **4. Debugging**  
+- `python debug/run_test_iter0.py`  
+  Runs in a Docker environment to identify correct code outputs.  
+- `python debug/run_test_with_debug_multi_turn.py`  
+  Tests the code with multiple debugging iterations.  
+
+#### **5. Data Collection for Training**  
+- `python utils/get_train_data.py`  
+  Saves correct codes as a JSON file for further analysis or training.  
+
+## Running the Pipeline  
+
+Make sure to follow the steps in the pipeline to ensure smooth code generation and testing. The Docker environment is used to validate the generated code.  
+
+For more details, refer to the [Epicoder paper](https://arxiv.org/abs/2501.04694).
 
 ## Contributing
 
