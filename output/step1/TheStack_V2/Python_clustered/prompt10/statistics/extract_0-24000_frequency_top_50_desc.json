@@ -1,0 +1,653 @@
+{
+    "workflow": {
+        "descendant_count": 51
+    },
+    "workflow---data loading": {
+        "descendant_count": 1
+    },
+    "workflow---model initialization": {
+        "descendant_count": 1
+    },
+    "workflow---data visualization": {
+        "descendant_count": 1
+    },
+    "workflow---model training": {
+        "descendant_count": 1
+    },
+    "workflow---model evaluation": {
+        "descendant_count": 1
+    },
+    "workflow---fine-tuning": {
+        "descendant_count": 1
+    },
+    "workflow---discrepancy distribution analysis": {
+        "descendant_count": 1
+    },
+    "workflow---form initialization": {
+        "descendant_count": 1
+    },
+    "workflow---executing system command": {
+        "descendant_count": 1
+    },
+    "workflow---function definition": {
+        "descendant_count": 1
+    },
+    "workflow---function composition": {
+        "descendant_count": 1
+    },
+    "workflow---pattern matching": {
+        "descendant_count": 1
+    },
+    "workflow---HTML template creation": {
+        "descendant_count": 1
+    },
+    "workflow---modular exponentiation": {
+        "descendant_count": 1
+    },
+    "workflow---data augmentation": {
+        "descendant_count": 2
+    },
+    "workflow---data normalization": {
+        "descendant_count": 1
+    },
+    "workflow---loss function definition": {
+        "descendant_count": 1
+    },
+    "workflow---optimizer and scheduler definition": {
+        "descendant_count": 1
+    },
+    "workflow---model saving and loading": {
+        "descendant_count": 1
+    },
+    "workflow---suppress warnings": {
+        "descendant_count": 1
+    },
+    "workflow---data augmentation and normalization": {
+        "descendant_count": 1
+    },
+    "workflow---visualization setup": {
+        "descendant_count": 1
+    },
+    "workflow---dataloaders setup": {
+        "descendant_count": 1
+    },
+    "workflow---loss criteria setup": {
+        "descendant_count": 1
+    },
+    "workflow---model testing": {
+        "descendant_count": 1
+    },
+    "workflow---model saving": {
+        "descendant_count": 2
+    },
+    "workflow---model loading": {
+        "descendant_count": 1
+    },
+    "workflow---request handling": {
+        "descendant_count": 1
+    },
+    "workflow---form field value setting": {
+        "descendant_count": 1
+    },
+    "workflow---data validation": {
+        "descendant_count": 1
+    },
+    "workflow---form submission": {
+        "descendant_count": 1
+    },
+    "workflow---form data parsing": {
+        "descendant_count": 1
+    },
+    "workflow---data saving": {
+        "descendant_count": 1
+    },
+    "workflow---custom form definition": {
+        "descendant_count": 1
+    },
+    "workflow---form field population": {
+        "descendant_count": 1
+    },
+    "workflow---form save override": {
+        "descendant_count": 1
+    },
+    "workflow---admin model customization": {
+        "descendant_count": 1
+    },
+    "workflow---command execution": {
+        "descendant_count": 1
+    },
+    "workflow---lambda abstraction": {
+        "descendant_count": 1
+    },
+    "workflow---partial function application": {
+        "descendant_count": 1
+    },
+    "workflow---function application": {
+        "descendant_count": 1
+    },
+    "workflow---dynamic content embedding": {
+        "descendant_count": 1
+    },
+    "workflow---image gallery setup": {
+        "descendant_count": 1
+    },
+    "workflow---SVG manipulation": {
+        "descendant_count": 1
+    },
+    "workflow---zoom and pan functionality": {
+        "descendant_count": 1
+    },
+    "workflow---SVG image embedding": {
+        "descendant_count": 1
+    },
+    "workflow---JavaScript event handling": {
+        "descendant_count": 1
+    },
+    "workflow---retrieve data": {
+        "descendant_count": 1
+    },
+    "workflow---parse XML": {
+        "descendant_count": 1
+    },
+    "workflow---assertion check": {
+        "descendant_count": 1
+    },
+    "functionality": {
+        "descendant_count": 26
+    },
+    "functionality---process management": {
+        "descendant_count": 1
+    },
+    "functionality---arithmetic operation": {
+        "descendant_count": 1
+    },
+    "functionality---out-of-distribution detection": {
+        "descendant_count": 1
+    },
+    "functionality---data manipulation": {
+        "descendant_count": 1
+    },
+    "functionality---web content generation": {
+        "descendant_count": 1
+    },
+    "functionality---mathematical computation": {
+        "descendant_count": 1
+    },
+    "functionality---image data processing": {
+        "descendant_count": 1
+    },
+    "functionality---neural network training": {
+        "descendant_count": 1
+    },
+    "functionality---neural network evaluation": {
+        "descendant_count": 1
+    },
+    "functionality---data visualization": {
+        "descendant_count": 1
+    },
+    "functionality---model training": {
+        "descendant_count": 1
+    },
+    "functionality---model evaluation": {
+        "descendant_count": 1
+    },
+    "functionality---web form processing": {
+        "descendant_count": 1
+    },
+    "functionality---admin interface customization": {
+        "descendant_count": 1
+    },
+    "functionality---admin interface enhancement": {
+        "descendant_count": 1
+    },
+    "functionality---form processing": {
+        "descendant_count": 1
+    },
+    "functionality---function composition": {
+        "descendant_count": 1
+    },
+    "functionality---pattern matching": {
+        "descendant_count": 1
+    },
+    "functionality---functional composition": {
+        "descendant_count": 1
+    },
+    "functionality---interactive graphics": {
+        "descendant_count": 1
+    },
+    "functionality---interactive image comparison": {
+        "descendant_count": 1
+    },
+    "functionality---XML data retrieval": {
+        "descendant_count": 1
+    },
+    "functionality---data validation": {
+        "descendant_count": 1
+    },
+    "functionality---web service interaction": {
+        "descendant_count": 1
+    },
+    "functionality---data retrieval": {
+        "descendant_count": 1
+    },
+    "resource usage": {
+        "descendant_count": 9
+    },
+    "resource usage---CPU Cycles": {
+        "descendant_count": 1
+    },
+    "resource usage---GPU memory": {
+        "descendant_count": 1
+    },
+    "resource usage---CPU memory": {
+        "descendant_count": 1
+    },
+    "resource usage---disk storage": {
+        "descendant_count": 1
+    },
+    "resource usage---GPU": {
+        "descendant_count": 2
+    },
+    "resource usage---browser memory": {
+        "descendant_count": 2
+    },
+    "resource usage---network bandwidth for image and script loading": {
+        "descendant_count": 1
+    },
+    "resource usage---browser memory for DOM elements": {
+        "descendant_count": 1
+    },
+    "computation operation": {
+        "descendant_count": 18
+    },
+    "computation operation---algorithmic operation": {
+        "descendant_count": 11
+    },
+    "computation operation---algorithmic operation---function composition": {
+        "descendant_count": 1
+    },
+    "computation operation---algorithmic operation---stochastic gradient descent": {
+        "descendant_count": 1
+    },
+    "computation operation---algorithmic operation---learning rate scheduling": {
+        "descendant_count": 1
+    },
+    "computation operation---algorithmic operation---data sampling": {
+        "descendant_count": 1
+    },
+    "computation operation---algorithmic operation---shuffling data": {
+        "descendant_count": 1
+    },
+    "computation operation---algorithmic operation---batch processing": {
+        "descendant_count": 1
+    },
+    "computation operation---algorithmic operation---training optimization": {
+        "descendant_count": 1
+    },
+    "computation operation---algorithmic operation---string splitting": {
+        "descendant_count": 1
+    },
+    "computation operation---algorithmic operation---pattern matching": {
+        "descendant_count": 1
+    },
+    "computation operation---algorithmic operation---iterative process": {
+        "descendant_count": 1
+    },
+    "computation operation---mathematical operation": {
+        "descendant_count": 1
+    },
+    "computation operation---division operation": {
+        "descendant_count": 1
+    },
+    "computation operation---statistical operation": {
+        "descendant_count": 1
+    },
+    "computation operation---Mathematical Operation": {
+        "descendant_count": 1
+    },
+    "computation operation---Algorithmic Operation": {
+        "descendant_count": 1
+    },
+    "computation operation---Statistical Operation": {
+        "descendant_count": 1
+    },
+    "user interaction": {
+        "descendant_count": 10
+    },
+    "user interaction---Display": {
+        "descendant_count": 1
+    },
+    "user interaction---UIComponents": {
+        "descendant_count": 1
+    },
+    "user interaction---display": {
+        "descendant_count": 1
+    },
+    "user interaction---ui components": {
+        "descendant_count": 1
+    },
+    "user interaction---image zooming": {
+        "descendant_count": 1
+    },
+    "user interaction---image panning": {
+        "descendant_count": 1
+    },
+    "user interaction---event handling for synchronized zoom and pan": {
+        "descendant_count": 1
+    },
+    "user interaction---UserInput": {
+        "descendant_count": 1
+    },
+    "user interaction---user input": {
+        "descendant_count": 1
+    },
+    "data processing": {
+        "descendant_count": 28
+    },
+    "data processing---data retrieval": {
+        "descendant_count": 6
+    },
+    "data processing---data retrieval---loading data from disk": {
+        "descendant_count": 1
+    },
+    "data processing---data retrieval---data loading from CIFAR10 and MNIST datasets": {
+        "descendant_count": 1
+    },
+    "data processing---data retrieval---extracting initial values from model instance": {
+        "descendant_count": 1
+    },
+    "data processing---data retrieval---HTTP GET request": {
+        "descendant_count": 1
+    },
+    "data processing---data retrieval---web service request for XML data": {
+        "descendant_count": 1
+    },
+    "data processing---data transformation": {
+        "descendant_count": 13
+    },
+    "data processing---data transformation---tensor conversion": {
+        "descendant_count": 1
+    },
+    "data processing---data transformation---XML parsing": {
+        "descendant_count": 1
+    },
+    "data processing---data transformation---random horizontal flip": {
+        "descendant_count": 1
+    },
+    "data processing---data transformation---random crop": {
+        "descendant_count": 1
+    },
+    "data processing---data transformation---normalization": {
+        "descendant_count": 1
+    },
+    "data processing---data transformation---image flipping": {
+        "descendant_count": 1
+    },
+    "data processing---data transformation---image cropping": {
+        "descendant_count": 1
+    },
+    "data processing---data transformation---image normalization": {
+        "descendant_count": 1
+    },
+    "data processing---data transformation---concatenating first name and last name": {
+        "descendant_count": 1
+    },
+    "data processing---data transformation---function application": {
+        "descendant_count": 1
+    },
+    "data processing---data transformation---partial function application": {
+        "descendant_count": 1
+    },
+    "data processing---data transformation---template string formatting": {
+        "descendant_count": 1
+    },
+    "data processing---data validation": {
+        "descendant_count": 1
+    },
+    "data processing---Data Transformation": {
+        "descendant_count": 1
+    },
+    "data processing---data preparation": {
+        "descendant_count": 1
+    },
+    "data processing---Data Retrieval": {
+        "descendant_count": 1
+    },
+    "data processing---Data Validation": {
+        "descendant_count": 1
+    },
+    "data processing---data visualization": {
+        "descendant_count": 1
+    },
+    "data processing---Data Preparation": {
+        "descendant_count": 1
+    },
+    "data processing---other": {
+        "descendant_count": 1
+    },
+    "file operation": {
+        "descendant_count": 9
+    },
+    "file operation---model checkpoint saving": {
+        "descendant_count": 1
+    },
+    "file operation---model checkpoint loading": {
+        "descendant_count": 1
+    },
+    "file operation---model state loading": {
+        "descendant_count": 1
+    },
+    "file operation---model state saving": {
+        "descendant_count": 1
+    },
+    "file operation---image linking": {
+        "descendant_count": 1
+    },
+    "file operation---HTML content generation": {
+        "descendant_count": 1
+    },
+    "file operation---file pattern matching": {
+        "descendant_count": 1
+    },
+    "file operation---file path resolution": {
+        "descendant_count": 1
+    },
+    "dependency relations": {
+        "descendant_count": 15
+    },
+    "dependency relations---torch": {
+        "descendant_count": 2
+    },
+    "dependency relations---torchvision": {
+        "descendant_count": 1
+    },
+    "dependency relations---visdom": {
+        "descendant_count": 1
+    },
+    "dependency relations---backbone.densenet": {
+        "descendant_count": 1
+    },
+    "dependency relations---config": {
+        "descendant_count": 1
+    },
+    "dependency relations---utils": {
+        "descendant_count": 1
+    },
+    "dependency relations---Django": {
+        "descendant_count": 1
+    },
+    "dependency relations---data.datasets": {
+        "descendant_count": 2
+    },
+    "dependency relations---data.datasets.UnsupData": {
+        "descendant_count": 1
+    },
+    "dependency relations---unknown (system)": {
+        "descendant_count": 1
+    },
+    "dependency relations---your answer": {
+        "descendant_count": 1
+    },
+    "dependency relations---AutoKey or similar tool with system.exec_command function": {
+        "descendant_count": 1
+    },
+    "dependency relations---svg-pan-zoom": {
+        "descendant_count": 2
+    },
+    "dependency relations---svg-pan-zoom library": {
+        "descendant_count": 1
+    },
+    "algorithm": {
+        "descendant_count": 5
+    },
+    "algorithm---Maximum Classifier Discrepancy": {
+        "descendant_count": 1
+    },
+    "algorithm---Fast Modular Exponentiation": {
+        "descendant_count": 1
+    },
+    "algorithm---Function Composition": {
+        "descendant_count": 1
+    },
+    "algorithm---function composition": {
+        "descendant_count": 1
+    },
+    "advanced techniques": {
+        "descendant_count": 7
+    },
+    "advanced techniques---deep learning": {
+        "descendant_count": 1
+    },
+    "advanced techniques---data augmentation": {
+        "descendant_count": 1
+    },
+    "advanced techniques---out-of-distribution detection": {
+        "descendant_count": 1
+    },
+    "advanced techniques---unsupervised learning": {
+        "descendant_count": 1
+    },
+    "advanced techniques---closures": {
+        "descendant_count": 1
+    },
+    "advanced techniques---partial application": {
+        "descendant_count": 1
+    },
+    "programming language": {
+        "descendant_count": 5
+    },
+    "programming language---Python": {
+        "descendant_count": 1
+    },
+    "programming language---Lisp": {
+        "descendant_count": 1
+    },
+    "programming language---HTML": {
+        "descendant_count": 1
+    },
+    "programming language---JavaScript": {
+        "descendant_count": 1
+    },
+    "implementation style": {
+        "descendant_count": 7
+    },
+    "implementation style---procedural": {
+        "descendant_count": 1
+    },
+    "implementation style---object-oriented": {
+        "descendant_count": 1
+    },
+    "implementation style---imperative": {
+        "descendant_count": 1
+    },
+    "implementation style---functional": {
+        "descendant_count": 1
+    },
+    "implementation style---declarative": {
+        "descendant_count": 1
+    },
+    "implementation style---event-driven": {
+        "descendant_count": 1
+    },
+    "security": {
+        "descendant_count": 1
+    },
+    "error handling": {
+        "descendant_count": 6
+    },
+    "error handling---warnings suppression": {
+        "descendant_count": 1
+    },
+    "error handling---unhandled exception": {
+        "descendant_count": 1
+    },
+    "error handling---ZeroDivisionError": {
+        "descendant_count": 1
+    },
+    "error handling---division by zero": {
+        "descendant_count": 1
+    },
+    "error handling---assertion": {
+        "descendant_count": 1
+    },
+    "logging": {
+        "descendant_count": 1
+    },
+    "data structures": {
+        "descendant_count": 11
+    },
+    "data structures---list": {
+        "descendant_count": 1
+    },
+    "data structures---dict": {
+        "descendant_count": 2
+    },
+    "data structures---class": {
+        "descendant_count": 1
+    },
+    "data structures---dictionary": {
+        "descendant_count": 1
+    },
+    "data structures---function": {
+        "descendant_count": 2
+    },
+    "data structures---closure": {
+        "descendant_count": 2
+    },
+    "data structures---functions": {
+        "descendant_count": 1
+    },
+    "data structures---closures": {
+        "descendant_count": 1
+    },
+    "data structures---strings for HTML content": {
+        "descendant_count": 1
+    },
+    "data structures---strings": {
+        "descendant_count": 2
+    },
+    "implementation logic": {
+        "descendant_count": 8
+    },
+    "implementation logic---iterative": {
+        "descendant_count": 1
+    },
+    "implementation logic---sequential": {
+        "descendant_count": 1
+    },
+    "implementation logic---procedural within methods": {
+        "descendant_count": 1
+    },
+    "implementation logic---imperative": {
+        "descendant_count": 1
+    },
+    "implementation logic---declarative": {
+        "descendant_count": 1
+    },
+    "implementation logic---higher-order functions": {
+        "descendant_count": 1
+    },
+    "implementation logic---event-driven logic": {
+        "descendant_count": 1
+    }
+}

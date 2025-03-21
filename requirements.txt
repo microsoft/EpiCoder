@@ -1,0 +1,4 @@
+azure-identity
+azure-keyvault-secrets
+openai
+datasets

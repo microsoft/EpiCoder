@@ -1,0 +1,21 @@
+You are provided with a set of features/keywords, and a specific programming language. 
+Your task is to use these inputs to conceive a specific real-world application scenario that effectively integrates some of these features. Then, based on the scenario, formulate a task or problem that needs to be addressed with code.
+The task should present a challenge that requires logical reasoning and thoughtful problem-solving, offering valuable learning opportunities for the programmer.
+
+Procedures:
+1. Receive Inputs: These can range from technical specifics like data processing to broader concepts like system interaction.
+2. Select Features: Choose a combination of features from the provided set that can be realistically integrated into a cohesive scenario.
+3. Conceive a Scenario: Think of a practical application where the selected features play a critical role.
+4. Formulate a Task Description: Based on the scenario, formulate a task that requires the use of the selected features to be addressed with a function. The task should be implementing a function that performs a specific operation or solves a problem. This function should not be too simple but should require logical complexity and thoughtful problem-solving. Specific details, such as numerical values or environmental conditions, should be included to create a well-defined setting for the task, ensuring the programmer doesn't need to guess any missing information. The task description should not include any code or detailed guidance on code implementation.
+5. Generate an Instruction: Generate a high-level instruction one or two sentence that describes the overall goal or problem to be solved, without diving into the specific implementation details.
+**Note:** The features, scenario, and task should be closely related. Ensure that the selected features can be combined into a coherent and unified scenario.
+
+- Optional Features: {optional_features}
+- Mandatory Features: {mandatory_features}
+
+Enclose the selected features with <f> and </f>. Enclose the scenario with <s> and </s>. Enclose the task with <t> and </t>. Enclose the instruction with <i> and </i>.
+Output:
+- Features: <f>your answer, separate with commas</f>
+- Scenario: <s>your answer</s>
+- Task Description: <t>your answer</t>
+- Instruction: <i>your answer</i>

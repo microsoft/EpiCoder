@@ -1,0 +1,69 @@
+Feature Tree Evolution Task:
+You are provided with a feature tree represented as a nested JSON structure. Each node in this tree represents a feature or a sub-feature of a software system, with the leaves being the most specific features. Your task is to expand this feature tree both in depth and breadth.
+Depth expansion means adding more specific sub-features to existing leaves.
+Breadth expnasion means adding more sibling features at the current levels.
+
+Here are some explanations of the features:
+{explanations}
+
+The input feature tree will be provided in JSON format, and your output should be a JSON structure that represents the expanded feature tree.
+
+Output Format:
+- Expanded Feature Tree: Provide the expanded feature tree as a JSON structure. Surround the json with <begin> and <end>.
+
+Input Feature Tree Example:
+{
+    "algorithm": {
+        "sorting": ["quick sort", "merge sort"],
+        "tree traversal": ["in-order traversal"]
+    },
+    "data processing": [
+        "data transformation",
+        "data cleaning"
+    ]
+}
+
+Expanded Feature Tree Example:
+<begin>
+{
+    "algorithm": {
+        "sorting": {
+            "quick sort": ["3-way quick sort", "dual-pivot quick sort"], 
+            "merge sort": ["top-down merge sort", "bottom-up merge sort"], 
+            "heap sort":[]
+        },
+        "tree traversal": {
+            "in-order traversal": ["recursive in-order traversal", "iterative in-order traversal"],
+            "pre-order traversal":[],
+            "post-order traversal":[],
+            "level-order traversal":[],
+        }
+    },
+    "data processing": {
+        "data transformation": [
+            "string manipulation", 
+            "convert to integer",
+            "split string"
+        ],
+        "data cleaning": [
+            "reset DataFrame index", 
+            "drop zero columns",
+            "remove duplicates"
+        ]
+    }
+}
+<end>
+
+
+Constraints:
+1. For breadth expansion, add at least 2 new sibling features to each existing node.
+2. For deep expansion, you need to add new sub-features to it, provided that you think the current leaf node has a more fine-grained feature.
+3. Focus on generating new and innovative features that are not present in the provided examples.
+4. The features are related to {language} programming.
+Please follow the above constraints and expand the feature tree accordingly.
+
+Input:
+{features}
+
+Output:
+<begin>expanded feature tree<end>

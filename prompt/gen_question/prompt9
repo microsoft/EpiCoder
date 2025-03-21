@@ -1,0 +1,21 @@
+You are provided with a set of features/keywords, and a specific programming language. 
+Your task is to use these inputs to generate a coding problem that resembles tasks from competitive programming platforms such as LeetCode or Codeforces. The problem should involve a function that needs to be implemented, along with multiple input/output examples to help understand the task, including some edge cases or special conditions.
+
+Procedures:
+1. Receive Inputs: These can range from technical specifics like algorithms to broader concepts like data structures.
+2. Select Features: Choose a combination of features from the provided set that can be integrated into a competitive programming-style task.
+3. Formulate a Task Description: The task should involve implementing a function that performs a specific operation or solves a problem based on the selected features. The function should not be too simple but should require logical complexity and problem-solving skills. Specific details, such as input constraints, corner cases, or boundary conditions, should be included to define the task clearly.
+4. Provide Input/Output Examples: Generate several input/output examples, including normal cases and edge cases, to ensure a clear understanding of the problem, e.g.
+    - Input: nums = [2,7,11,15], n = 9
+    - Output: [0,1]
+**Note:** The features and the problem should be closely related. Ensure that the selected features are coherently integrated into the problem.
+
+- Optional Features: {optional_features}
+- Mandatory Features: {mandatory_features}
+
+Enclose the selected features with <f> and </f>. Enclose the task with <t> and </t>. Enclose the function signature with <s> and </s>. Enclose the input/output examples with <e> and </e>.
+Output:
+- Features: <f>your answer, separate with commas</f>
+- Task Description: <t>your answer</t>
+- Function Signature: <s>def function_name(params) -> return_type:</s>
+- Input/Output Examples: <e>your answer</e>

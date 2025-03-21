@@ -1,0 +1,108 @@
+Extract features from the provided code snippets, following the requirements for each category below, formatted in JSON structure.
+
+Responses in the following categories should be concise and organized in a JSON format surrounded with <begin> and <end>. Categories may include nested structures if applicable. Here is an example of the expected format:
+<begin>{
+    "programming language": [
+        "Python"
+    ],
+    "functionality": [
+        "data processing"
+    ],
+    "computation operation": {
+        "mathematical operation":[
+            "find common divisor",
+            "base conversion",
+            "prime factorization"
+        ],
+        "statistical calculations":[
+            "maximum"
+        ]
+    },
+    "data processing": {
+        "data transformation": [
+            "drop rows"
+        ]
+    },
+    "data structures": [
+        "string",
+        "list",
+        "graph",
+        "tree"
+    ],
+    "implementation logic":["conditional", "loop"]
+}<end>
+
+Categories to extract:
+1. Programming Language: Note the specific programming language used. Example: ["Python", "Java"].
+2. Workflow: Outline the main steps and operations the code performs. Example: ["data loading", "preprocessing", "model training", "evaluation", "results saving"].
+3. Implementation Style: What programming paradigm the code follows. Example: ["procedural", "object-oriented", "functional"].
+4. Functionality: Explain the function of the code. Example: ["data processing", "user interaction", "system control"].
+5. Resource Usage: Analyze how the code utilizes system resources. Example: ["CPU Cycles", "GPU ComputeOperations", "Network Bandwidth"].
+6. Data Processing: Describe how the data is processed. This category can include the following subcategories:
+    6.1 Data Preparation: Steps taken to prepare data for further processing. Example: ["validate units", "strip whitespace"].
+    6.2 Data Retrieval: Methods for obtaining data. Example: ["fetching records", "retrieve top-level items"].
+    6.3 Data Transformation: Describe data transformation operations. Example: ["convert to numpy array", "jsonschema"].
+    6.4 Data Validation: Describe data validation operations. Example: ["type checking", "check required keys"].
+    6.5 String Manipulation: Describe string manipulation. Example: ["find substring", "replace characters", "reverse", "concatenate", "count frequency"]
+    6.6 Other relevant subcategories...
+7. Computation Operation: What computation operations are used. This category can include the following subcategories:
+    7.1 Mathematical Operation: Specify mathematical computations, such as calculations involving statistics or algebra. Example: ["find common divisor", "base conversion", "prime factorization", "standard deviation calculation", "compute power flow"].
+    7.2 Algorithmic Operation: Identify algorithm-based operations, such as those in optimization or data sorting. Example: ["simulated annealing", "Best-Fit Decreasing"].
+    7.3 Statistical Operation: Note operations involving statistical analysis. Example: ["calculate min and max", "calculate percentage positions"].
+    7.4 Other relevant subcategories...
+8. Security: Check for security and authentication mechanisms. This category can include the following subcategories:
+    8.1 Authentication: Describe user authentication methods. Example: ["role-based access", "OAuth unlinking"].
+    8.2 Cryptography: Mention any cryptographic techniques used. Example: ["key derivation", "token storage"].
+    8.3 Other relevant subcategories...
+9. User Interaction: Describe the code related to user interaction. This category can include the following subcategories:
+    9.1 UserInput: Describe how user input is captured or handled. Example: ["input capture", "form submission"].
+    9.2 UIComponents: Note user interface components. Example: ["confirmation dialog", "highlight editing"].
+    9.3 Display: Explain how information is displayed to the user. Example: ["plotting distribution", "draw weekend rectangles"].
+    9.4 Other relevant subcategories...
+10. File Operation: What file operations are used. Example: ["file download", "file streaming", "HTML parsing"].
+11. Error Handling: Verify error handling. Example: ["transaction rollback", "exception management", "error propagation"].
+12. Logging: Operations about logging. Example: ["logger creation", "log retention", "stack traces", "integrity monitoring"].
+13. Dependency Relations: Describe any external libraries or services the code depends on. Include full library names rather than individual components or classes. Example: ["torch", "matplotlib", "pandas"].
+14. Algorithm: Identify the specific algorithm or method being used in the code. Example: ["dfs", "dynamic programming", "Quicksort", "Huffman Codes"].
+15. Data Structures: Describe the primary data structures utilized. Example: ["string","graph","list", "grid", "dict"].
+16. Implementation Logic: Describe the implementation logic. Example: ["iterative", "recursive", "parallel"].
+17. Advanced Techniques: Specify any sophisticated algorithms or methods applied. Example: ["Machine Learning", "Linear Regression", "Optimization Algorithms"].
+18. Issues & bugs: Potential issues or bugs. Example: ["potential division by zero"].
+
+19. Potential Scenario: A short description of a possible real-world scenario for this code. Example: "The code is used to parse a UniFrac results file, which is commonly used in bioinformatics to analyze microbial communities."
+20. Summary: Provide a concise summary. Example: "Constructs and manipulates a control flow graph for exception handling and node optimization."
+21. Purpose: What the code is used to do. Example: "To create a map associating each OTU ID with its taxonomic specifier."
+
+
+Extract as many features as possible and try not to let a feature appear in multiple categories at the same time.
+Please respond with the information in the specified JSON format.
+
+Input: 
+{source_code}
+
+Output:
+<begin>{
+    "programming language": ["your answer"],
+    "workflow": ["your answer"],
+    "implementation style": ["your answer"],
+    "functionality": ["your answer"],
+    "resource usage": ["your answer"],
+    "computation operation": ["your answer"],
+    "security": ["your answer"],
+    "user interaction": ["your answer"],
+    "data processing": ["your answer"],
+    "file operation": ["your answer"],
+    "error handling": ["your answer"],
+    "logging": ["your answer"],
+    "dependency relations": ["your answer"],
+    "algorithm": ["your answer"],
+    "data structures": ["your answer"],
+    "implementation logic": ["your answer"],
+    "advanced techniques": ["your answer"],
+    "issues & bugs": ["your answer"],
+    "potential scenario": "your answer",
+    "summary": "your answer",
+    "purpose": "your answer"
+}<end>
+
+If the features of a category cannot be directly extracted from the code, please set it to an empty list []. 

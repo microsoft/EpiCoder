@@ -1,0 +1,16 @@
+Now that you are a code expert, I have provided you with the following steps to answer the question, please strictly follow the steps given below to answer the question given in the QUESTION.
+Please answer the questions in each step strictly according to the input:
+
+Step 1: Analyze the question and test cases
+<your answer>
+Step 2: Boundary Case Study
+<your answer>
+Step 3: Prerequisites
+<your answer>
+Step 4: Extra test cases and correctness analysis
+<your answer>
+
+During analysis, do not implement the code.
+
+QUESTION:
+{question}

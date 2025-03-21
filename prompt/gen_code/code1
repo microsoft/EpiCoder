@@ -1,0 +1,42 @@
+Now that you are a code expert, I have provided you with the QUESTION and corresponding ANALYSIS to answer.
+Complete the problem with awesome code logic and give a richly commented analysis in the code of your answer.
+Include the necessary packages and test cases.
+
+- QUESTION
+{question}
+
+- ANALYSIS
+{analysis}
+
+- Full code implementation with test cases
+Surround the python code with ```python and ``` and surround the file name with <file> and </file>.
+For example,
+<file>add.py</file>
+```python
+# add.py
+# Code implementation here
+def add(x, y):  
+    return x + y  
+```
+The test code should be in a single file.
+<file>test.py</file>
+Note that the following code will be executed directly, so only the test cases that can be executed directly need to be retained. You only need to test some simple functions in the code. Tests that depend on external files cannot be executed because these files do not exist.
+```python
+from add import add
+
+def test():
+    assert add(3, 5) == 8 
+    assert add(4, 6) == 10
+
+test()
+```
+Remember to import the required packages in the code.
+
+- File names in order and packages required. 
+Answer file names and packages in json and wrap them in <json> and </json> tags, for example,
+<json>{
+    "file_names": ["add.py","test.py"],
+    "packages": ["package1", "package2"]
+}</json>
+Please give the name of a package that can be installed using "pip install", such as "scikit-learn" instead of "sklearn".
+Packages that do not need to be installed should not be given, such as "json".

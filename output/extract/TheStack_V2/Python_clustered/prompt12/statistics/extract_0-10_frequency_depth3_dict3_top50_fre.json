@@ -1,0 +1,1612 @@
+{
+    "workflow": {
+        "frequency": 61,
+        "his_frequencies": [
+            61
+        ],
+        "avg_sub_frequency": 1.2448979591836735
+    },
+    "workflow---data loading": {
+        "frequency": 3,
+        "his_frequencies": [
+            3
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---data transformation": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---model initialization": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---fine-tuning": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---function definition": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---function composition": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---function application": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---HTML structure definition": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---CSS styling": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---Image embedding": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---send request": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---data visualization": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---pre-training": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---evaluation": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---checkpoint saving": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---data preprocessing": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---loss definition": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---optimizer setup": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---scheduler setup": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---training": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---validation": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---testing": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---model saving": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---data modeling": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---form creation": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---data saving": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---gettext compilation": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---gettext message extraction": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---model definition": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---form customization": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---admin interface customization": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---message compilation": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---system command execution": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---execute system command": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---JavaScript initialization": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---JavaScript functionality": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---data validation": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---computation": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---display results": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---parse XML response": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---assert condition": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---retrieve response": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---parse response": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---validate result": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---modular exponentiation": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---initialize variables": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---loop through exponentiation": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---compute modular exponentiation": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "workflow---return result": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "functionality": {
+        "frequency": 28,
+        "his_frequencies": [
+            28
+        ],
+        "avg_sub_frequency": 1.4736842105263157
+    },
+    "functionality---data processing": {
+        "frequency": 5,
+        "his_frequencies": [
+            5
+        ],
+        "avg_sub_frequency": 1
+    },
+    "functionality---user interaction": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "functionality---system control": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "functionality---function composition": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "functionality---data retrieval": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "functionality---mathematical computation": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "functionality---unsupervised out-of-distribution detection": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "functionality---model training": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "functionality---out-of-distribution detection": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "functionality---form handling": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "functionality---localization": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "functionality---math operations": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "functionality---higher-order functions": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "functionality---web page rendering": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "functionality---data visualization": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "functionality---web page generation": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "functionality---image comparison": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "functionality---testing": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "functionality---validation": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "resource usage": {
+        "frequency": 14,
+        "his_frequencies": [
+            14
+        ],
+        "avg_sub_frequency": 4.666666666666667
+    },
+    "resource usage---CPU Cycles": {
+        "frequency": 10,
+        "his_frequencies": [
+            10
+        ],
+        "avg_sub_frequency": 1
+    },
+    "resource usage---GPU ComputeOperations": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "resource usage---Network Bandwidth": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "computation operation": {
+        "frequency": 17,
+        "his_frequencies": [
+            17
+        ],
+        "avg_sub_frequency": 5.666666666666667
+    },
+    "computation operation---mathematical operation": {
+        "frequency": 11,
+        "his_frequencies": [
+            11
+        ],
+        "avg_sub_frequency": 1.5714285714285714
+    },
+    "computation operation---mathematical operation---addition": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "computation operation---mathematical operation---division": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "computation operation---mathematical operation---multiplication": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "computation operation---mathematical operation---modular exponentiation": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "computation operation---mathematical operation---cross entropy loss": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "computation operation---mathematical operation---standard deviation calculation": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "computation operation---mathematical operation---compute power flow": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "computation operation---algorithmic operation": {
+        "frequency": 4,
+        "his_frequencies": [
+            4
+        ],
+        "avg_sub_frequency": 1.3333333333333333
+    },
+    "computation operation---algorithmic operation---shuffling": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "computation operation---algorithmic operation---data sampling": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "computation operation---algorithmic operation---training step": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "computation operation---statistical operation": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "user interaction": {
+        "frequency": 17,
+        "his_frequencies": [
+            17
+        ],
+        "avg_sub_frequency": 3.4
+    },
+    "user interaction---display": {
+        "frequency": 4,
+        "his_frequencies": [
+            4
+        ],
+        "avg_sub_frequency": 1.0
+    },
+    "user interaction---display---visualization with Visdom": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "user interaction---display---data visualization": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "user interaction---display---displaying full name in admin change list": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "user interaction---display---plotting distribution": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "user interaction---UIComponents": {
+        "frequency": 7,
+        "his_frequencies": [
+            7
+        ],
+        "avg_sub_frequency": 1.0
+    },
+    "user interaction---UIComponents---editable form field": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "user interaction---UIComponents---admin change list form": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "user interaction---UIComponents---responsive divs": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "user interaction---UIComponents---image galleries": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "user interaction---UIComponents---responsive div": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "user interaction---UIComponents---gallery": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "user interaction---UIComponents---image container": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "user interaction---Display": {
+        "frequency": 4,
+        "his_frequencies": [
+            4
+        ],
+        "avg_sub_frequency": 1.0
+    },
+    "user interaction---Display---render images": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "user interaction---Display---display project and layer names": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "user interaction---Display---embedding images": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "user interaction---Display---SVG manipulation": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "user interaction---userInput": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "user interaction---user input": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing": {
+        "frequency": 41,
+        "his_frequencies": [
+            41
+        ],
+        "avg_sub_frequency": 5.857142857142857
+    },
+    "data processing---data preparation": {
+        "frequency": 7,
+        "his_frequencies": [
+            7
+        ],
+        "avg_sub_frequency": 1.0
+    },
+    "data processing---data preparation---transform data": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data preparation---normalize data": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data preparation---data augmentation": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data preparation---normalization": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data preparation---initialize form with instance data": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data preparation---validate units": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data preparation---strip whitespace": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data retrieval": {
+        "frequency": 7,
+        "his_frequencies": [
+            7
+        ],
+        "avg_sub_frequency": 1.4
+    },
+    "data processing---data retrieval---fetching records": {
+        "frequency": 3,
+        "his_frequencies": [
+            3
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data retrieval---load CIFAR10 dataset": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data retrieval---load MNIST dataset": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data retrieval---loading datasets": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data retrieval---retrieve instance initial data": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data transformation": {
+        "frequency": 15,
+        "his_frequencies": [
+            15
+        ],
+        "avg_sub_frequency": 1.1538461538461537
+    },
+    "data processing---data transformation---random horizontal flip": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data transformation---random crop": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data transformation---convert to tensor": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data transformation---normalize": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data transformation---tensor conversion": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data transformation---split name into first_name and last_name": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data transformation---split full name into first and last name": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data transformation---compose functions": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data transformation---apply function sequence": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data transformation---formatting HTML content": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data transformation---embedding dynamic values": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data transformation---convert to numpy array": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data transformation---parse XML": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data validation": {
+        "frequency": 6,
+        "his_frequencies": [
+            6
+        ],
+        "avg_sub_frequency": 1.0
+    },
+    "data processing---data validation---none": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data validation---cleaned data": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data validation---pattern matching": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data validation---type checking": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data validation---assert length": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---data validation---check required keys": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---string manipulation": {
+        "frequency": 4,
+        "his_frequencies": [
+            4
+        ],
+        "avg_sub_frequency": 1.0
+    },
+    "data processing---string manipulation---concatenate first_name and last_name": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---string manipulation---split name string": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---string manipulation---find substring": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---string manipulation---replace characters": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---Data Transformation": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data processing---String Manipulation": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "file operation": {
+        "frequency": 9,
+        "his_frequencies": [
+            9
+        ],
+        "avg_sub_frequency": 1.2857142857142858
+    },
+    "file operation---model checkpoint saving": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "file operation---model checkpoint loading": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "file operation---gettext file compilation": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "file operation---gettext message extraction": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "file operation---message compilation": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "file operation---message extraction": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "file operation---file download": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "dependency relations": {
+        "frequency": 17,
+        "his_frequencies": [
+            17
+        ],
+        "avg_sub_frequency": 1.7
+    },
+    "dependency relations---torch": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "dependency relations---torchvision": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "dependency relations---visdom": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "dependency relations---django": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "dependency relations---gettext": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "dependency relations---svg-pan-zoom": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "dependency relations---xml.etree.ElementTree": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "dependency relations---numpy": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "dependency relations---matplotlib": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "dependency relations---pandas": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "algorithm": {
+        "frequency": 6,
+        "his_frequencies": [
+            6
+        ],
+        "avg_sub_frequency": 1.2
+    },
+    "algorithm---Fast Modular Exponentiation": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "algorithm---unsupervised out-of-distribution detection by maximum classifier discrepancy": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "algorithm---Maximum Classifier Discrepancy": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "algorithm---function composition": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "algorithm---Quicksort": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "advanced techniques": {
+        "frequency": 5,
+        "his_frequencies": [
+            5
+        ],
+        "avg_sub_frequency": 1.0
+    },
+    "advanced techniques---Discrepancy Loss": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "advanced techniques---learning rate scheduler": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "advanced techniques---Unsupervised Learning": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "advanced techniques---Out-of-distribution Detection": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "advanced techniques---Machine Learning": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "programming language": {
+        "frequency": 22,
+        "his_frequencies": [
+            22
+        ],
+        "avg_sub_frequency": 4.4
+    },
+    "programming language---Python": {
+        "frequency": 15,
+        "his_frequencies": [
+            15
+        ],
+        "avg_sub_frequency": 1
+    },
+    "programming language---Clojure": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "programming language---HTML": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "programming language---JavaScript": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "programming language---CSS": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "implementation style": {
+        "frequency": 19,
+        "his_frequencies": [
+            19
+        ],
+        "avg_sub_frequency": 6.333333333333333
+    },
+    "implementation style---procedural": {
+        "frequency": 13,
+        "his_frequencies": [
+            13
+        ],
+        "avg_sub_frequency": 1
+    },
+    "implementation style---object-oriented": {
+        "frequency": 4,
+        "his_frequencies": [
+            4
+        ],
+        "avg_sub_frequency": 1
+    },
+    "implementation style---functional": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "security": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1.0
+    },
+    "security---authentication": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "security---cryptography": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "error handling": {
+        "frequency": 8,
+        "his_frequencies": [
+            8
+        ],
+        "avg_sub_frequency": 2.0
+    },
+    "error handling---exception management": {
+        "frequency": 3,
+        "his_frequencies": [
+            3
+        ],
+        "avg_sub_frequency": 1
+    },
+    "error handling---filter warnings": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "error handling---assertion": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "error handling---form validation": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "logging": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1.0
+    },
+    "logging---plotting loss": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "logging---logger creation": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data structures": {
+        "frequency": 33,
+        "his_frequencies": [
+            33
+        ],
+        "avg_sub_frequency": 2.2
+    },
+    "data structures---string": {
+        "frequency": 6,
+        "his_frequencies": [
+            6
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data structures---list": {
+        "frequency": 5,
+        "his_frequencies": [
+            5
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data structures---integer": {
+        "frequency": 4,
+        "his_frequencies": [
+            4
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data structures---tensor": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data structures---dictionary": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data structures---form": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data structures---function": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data structures---closure": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data structures---JavaScript objects": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data structures---model": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data structures---HTML elements": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data structures---CSS rules": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data structures---HTML structure": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data structures---CSS styles": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "data structures---dict": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "implementation logic": {
+        "frequency": 23,
+        "his_frequencies": [
+            23
+        ],
+        "avg_sub_frequency": 2.5555555555555554
+    },
+    "implementation logic---conditional": {
+        "frequency": 9,
+        "his_frequencies": [
+            9
+        ],
+        "avg_sub_frequency": 1
+    },
+    "implementation logic---iterative": {
+        "frequency": 4,
+        "his_frequencies": [
+            4
+        ],
+        "avg_sub_frequency": 1
+    },
+    "implementation logic---loop": {
+        "frequency": 3,
+        "his_frequencies": [
+            3
+        ],
+        "avg_sub_frequency": 1
+    },
+    "implementation logic---event-driven": {
+        "frequency": 2,
+        "his_frequencies": [
+            2
+        ],
+        "avg_sub_frequency": 1
+    },
+    "implementation logic---function call": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "implementation logic---nested closures": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "implementation logic---partial application": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "implementation logic---higher-order functions": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    },
+    "implementation logic---function application": {
+        "frequency": 1,
+        "his_frequencies": [
+            1
+        ],
+        "avg_sub_frequency": 1
+    }
+}

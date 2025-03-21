@@ -1,0 +1,530 @@
+{
+    "workflow": {
+        "parse response": [
+            "extract data",
+            "validate schema",
+            "handle errors",
+            "transform data"
+        ],
+        "data ingestion": [
+            "read from API",
+            "read from file",
+            "read from database"
+        ],
+        "data output": [
+            "write to file",
+            "send to API",
+            "update database"
+        ],
+        "assert condition": [
+            "assertEqual",
+            "assertNotEqual",
+            "assertTrue",
+            "assertFalse",
+            "assertIn",
+            "assertNotIn"
+        ],
+        "error handling": [
+            "custom exceptions",
+            "finally block",
+            "try-except block",
+            "logging errors",
+            "retry mechanisms",
+            "try-catch blocks",
+            "custom exception classes"
+        ],
+        "logging": [
+            "info logging",
+            "debug logging",
+            "error logging"
+        ],
+        "checkpoint saving": [
+            "save to local storage",
+            "save to cloud storage",
+            "save to database"
+        ],
+        "performance monitoring": [
+            "execution time tracking",
+            "memory usage tracking",
+            "resource allocation tracking"
+        ],
+        "display results": [
+            "display as table",
+            "display as chart",
+            "export to CSV"
+        ],
+        "data collection": [
+            "collect user input",
+            "fetch from API",
+            "scrape from web"
+        ],
+        "data analysis": [
+            "statistical analysis",
+            "predictive analysis",
+            "diagnostic analysis"
+        ],
+        "model training": [
+            "hyperparameter tuning",
+            "model selection",
+            "training monitoring"
+        ],
+        "form customization": [
+            "dynamic form fields",
+            "conditional validation",
+            "auto-save form",
+            "real-time form collaboration"
+        ],
+        "process automation": [
+            "task scheduling",
+            "workflow orchestration",
+            "event-driven triggers"
+        ],
+        "data pipeline": [
+            "data ingestion",
+            "data validation",
+            "data transformation"
+        ],
+        "compute modular exponentiation": [
+            "modular exponentiation using recursion",
+            "modular exponentiation using iteration",
+            "modular exponentiation with large numbers"
+        ],
+        "data validation": [
+            "check null values",
+            "check input range",
+            "handle missing values",
+            "validate data types",
+            "validate data type",
+            "check value ranges"
+        ],
+        "testing": {
+            "unit testing": [
+                "mocking dependencies",
+                "test coverage analysis",
+                "test-driven development"
+            ],
+            "integration testing": [
+                "end-to-end testing",
+                "API testing",
+                "performance testing"
+            ],
+            "debugging": [
+                "breakpoint setting",
+                "log analysis",
+                "error handling"
+            ],
+            "code review": [
+                "pull request review",
+                "automated code analysis",
+                "peer review"
+            ]
+        },
+        "deployment": [
+            "continuous integration",
+            "continuous deployment",
+            "containerization",
+            "version control"
+        ],
+        "documentation": [
+            "API documentation",
+            "user guides",
+            "code comments",
+            "README files"
+        ],
+        "data transformation": [
+            "string manipulation",
+            "convert to integer",
+            "split string",
+            "normalize data",
+            "aggregate data"
+        ],
+        "data integration": [
+            "merge datasets",
+            "join tables",
+            "concatenate arrays"
+        ],
+        "data preprocessing": [
+            "data normalization",
+            "data augmentation",
+            "data shuffling",
+            "data sampling"
+        ]
+    },
+    "functionality": {
+        "web page rendering": [
+            "CSS styling",
+            "DOM manipulation",
+            "responsive design",
+            "JavaScript execution",
+            "lazy loading",
+            "HTML parsing"
+        ],
+        "user authentication": [
+            "login management",
+            "session handling",
+            "password encryption"
+        ],
+        "database interaction": [
+            "CRUD operations",
+            "SQL query execution",
+            "database transactions",
+            "ORM mapping",
+            "ORM integration",
+            "query optimization",
+            "NoSQL database operations"
+        ],
+        "math operations": {
+            "basic operations": [
+                "addition",
+                "subtraction",
+                "multiplication",
+                "division"
+            ],
+            "advanced operations": [
+                "matrix multiplication",
+                "fourier transform",
+                "linear regression",
+                "polynomial fitting"
+            ]
+        },
+        "string operations": [
+            "concatenation",
+            "substring extraction",
+            "pattern matching",
+            "string replacement"
+        ],
+        "file operations": [
+            "read file",
+            "write file",
+            "append to file",
+            "delete file"
+        ],
+        "authentication": [
+            "user login",
+            "user registration",
+            "password reset",
+            "session management"
+        ],
+        "API integration": [
+            "REST API calls",
+            "GraphQL queries",
+            "webhooks",
+            "API authentication"
+        ]
+    },
+    "computation operation": {
+        "mathematical operation": {
+            "modular exponentiation": [
+                "right-to-left binary method",
+                "left-to-right binary method",
+                "Montgomery reduction"
+            ],
+            "multiplication": [
+                "karatsuba algorithm",
+                "schoolbook multiplication",
+                "FFT multiplication"
+            ],
+            "addition": [
+                "carry-lookahead adder",
+                "ripple-carry adder",
+                "carry-save adder"
+            ],
+            "subtraction": [
+                "borrow-lookahead subtractor",
+                "borrow-save subtractor",
+                "ripple-borrow subtractor"
+            ]
+        },
+        "algorithmic operation": {
+            "search algorithms": [
+                "binary search",
+                "linear search",
+                "jump search"
+            ],
+            "graph algorithms": [
+                "Dijkstra's algorithm",
+                "A* algorithm",
+                "Bellman-Ford algorithm"
+            ]
+        },
+        "statistical operation": {
+            "mean calculation": [
+                "arithmetic mean",
+                "geometric mean",
+                "harmonic mean"
+            ],
+            "variance calculation": [
+                "population variance",
+                "sample variance",
+                "moving variance"
+            ],
+            "standard deviation calculation": [
+                "population standard deviation",
+                "sample standard deviation",
+                "moving standard deviation"
+            ]
+        }
+    },
+    "user interaction": {
+        "display": {
+            "displaying full name in admin change list": [
+                "customizable display templates",
+                "user role-based display",
+                "admin panel themes"
+            ],
+            "visualization with Visdom": [
+                "real-time data visualization",
+                "interactive dashboards",
+                "custom plot types"
+            ],
+            "display optimization": [
+                "lazy loading",
+                "responsive design",
+                "accessibility features"
+            ]
+        },
+        "user input": {
+            "form validation": [
+                "client-side validation",
+                "server-side validation",
+                "real-time feedback"
+            ],
+            "input sanitization": [
+                "SQL injection prevention",
+                "cross-site scripting (XSS) protection",
+                "input length restrictions"
+            ],
+            "input methods": [
+                "keyboard shortcuts",
+                "voice input",
+                "touch gestures"
+            ]
+        },
+        "UI components": {
+            "navigation": [
+                "breadcrumbs",
+                "side menus",
+                "tab navigation"
+            ],
+            "buttons": [
+                "icon buttons",
+                "floating action buttons",
+                "toggle buttons"
+            ],
+            "modals": [
+                "confirmation dialogs",
+                "form modals",
+                "information popups"
+            ],
+            "form elements": [
+                "text field",
+                "dropdown menu",
+                "checkbox"
+            ],
+            "display elements": [
+                "labels",
+                "images",
+                "charts"
+            ],
+            "navigation elements": [
+                "tabs",
+                "sidebars",
+                "breadcrumbs"
+            ]
+        },
+        "userInput": {
+            "text input": [
+                "single-line input",
+                "multi-line input"
+            ],
+            "file input": [
+                "file upload",
+                "drag and drop file"
+            ],
+            "button click": [
+                "submit button",
+                "reset button"
+            ]
+        },
+        "display methods": {
+            "console output": [
+                "print statements",
+                "logging"
+            ],
+            "GUI display": [
+                "message box",
+                "notification"
+            ],
+            "web display": [
+                "HTML rendering",
+                "dynamic content update"
+            ]
+        }
+    },
+    "data processing": {
+        "Data Transformation": {
+            "string manipulation": [
+                "substring extraction",
+                "case conversion",
+                "regular expression matching"
+            ],
+            "numeric transformation": [
+                "rounding numbers",
+                "normalization",
+                "scaling"
+            ],
+            "data type conversion": [
+                "string to integer",
+                "integer to float",
+                "float to string"
+            ]
+        },
+        "data retrieval": {
+            "load CIFAR10 dataset": [
+                "download CIFAR10 dataset",
+                "preprocess CIFAR10 dataset"
+            ],
+            "load MNIST dataset": [
+                "download MNIST dataset",
+                "preprocess MNIST dataset"
+            ],
+            "load ImageNet dataset": [
+                "download ImageNet dataset",
+                "preprocess ImageNet dataset"
+            ],
+            "load custom dataset": [
+                "read from CSV",
+                "read from JSON",
+                "read from SQL database"
+            ]
+        },
+        "data preparation": [
+            "split into training and testing sets",
+            "normalize data",
+            "handle missing values"
+        ],
+        "data transformation": {
+            "compose functions": [
+                "function chaining",
+                "function composition",
+                "higher-order functions"
+            ],
+            "convert to tensor": [
+                "convert numpy array to tensor",
+                "convert pandas DataFrame to tensor",
+                "convert list to tensor"
+            ],
+            "feature scaling": [
+                "min-max scaling",
+                "standard scaling",
+                "robust scaling"
+            ],
+            "feature extraction": [
+                "PCA (Principal Component Analysis)",
+                "LDA (Linear Discriminant Analysis)",
+                "t-SNE (t-Distributed Stochastic Neighbor Embedding)"
+            ],
+            "feature encoding": [],
+            "data augmentation": [],
+            "string to integer conversion": [],
+            "integer to string conversion": [],
+            "data normalization": []
+        },
+        "data validation": [
+            "check for null values",
+            "cross-validation",
+            "check for unique constraints",
+            "train-validation split",
+            "validate data types",
+            "data consistency checks"
+        ],
+        "string manipulation": {
+            "find substring": [
+                "find first occurrence",
+                "find all occurrences"
+            ],
+            "replace characters": [
+                "replace single character",
+                "replace substring"
+            ],
+            "split string": [
+                "split by delimiter",
+                "split by fixed width"
+            ],
+            "concatenate strings": [
+                "concatenate with delimiter",
+                "concatenate without delimiter"
+            ]
+        },
+        "data cleaning": [
+            "reset DataFrame index",
+            "drop zero columns",
+            "remove duplicates"
+        ]
+    },
+    "algorithm": {
+        "Maximum Classifier Discrepancy": {
+            "discrepancy measurement": [
+                "discrepancy in feature space",
+                "discrepancy in label space"
+            ],
+            "classifier training": [
+                "adversarial training",
+                "domain adaptation"
+            ],
+            "application": [
+                "image classification",
+                "text classification"
+            ]
+        },
+        "neural networks": {
+            "convolutional neural networks": [
+                "image recognition",
+                "object detection",
+                "segmentation"
+            ],
+            "recurrent neural networks": [
+                "text generation",
+                "sequence prediction",
+                "language modeling"
+            ],
+            "graph neural networks": [
+                "node classification",
+                "link prediction",
+                "graph clustering"
+            ]
+        },
+        "Quicksort": [
+            "3-way quicksort",
+            "dual-pivot quicksort",
+            "randomized quicksort"
+        ],
+        "Mergesort": [
+            "top-down mergesort",
+            "bottom-up mergesort",
+            "parallel mergesort"
+        ],
+        "Heapsort": [
+            "binary heapsort",
+            "ternary heapsort",
+            "smoothsort"
+        ]
+    },
+    "advanced techniques": {
+        "Machine Learning": [
+            "supervised learning",
+            "unsupervised learning",
+            "reinforcement learning"
+        ],
+        "Deep Learning": [
+            "neural networks",
+            "convolutional neural networks",
+            "recurrent neural networks"
+        ],
+        "Optimization Techniques": [
+            "gradient descent",
+            "genetic algorithms",
+            "simulated annealing"
+        ]
+    }
+}

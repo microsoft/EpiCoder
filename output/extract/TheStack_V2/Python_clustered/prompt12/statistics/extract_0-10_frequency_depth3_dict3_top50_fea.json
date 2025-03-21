@@ -1,0 +1,259 @@
+{
+    "workflow": [
+        "data loading",
+        "data transformation",
+        "model initialization",
+        "fine-tuning",
+        "function definition",
+        "function composition",
+        "function application",
+        "HTML structure definition",
+        "CSS styling",
+        "Image embedding",
+        "send request",
+        "data visualization",
+        "pre-training",
+        "evaluation",
+        "checkpoint saving",
+        "data preprocessing",
+        "loss definition",
+        "optimizer setup",
+        "scheduler setup",
+        "training",
+        "validation",
+        "testing",
+        "model saving",
+        "data modeling",
+        "form creation",
+        "data saving",
+        "gettext compilation",
+        "gettext message extraction",
+        "model definition",
+        "form customization",
+        "admin interface customization",
+        "message compilation",
+        "system command execution",
+        "execute system command",
+        "JavaScript initialization",
+        "JavaScript functionality",
+        "data validation",
+        "computation",
+        "display results",
+        "parse XML response",
+        "assert condition",
+        "retrieve response",
+        "parse response",
+        "validate result",
+        "modular exponentiation",
+        "initialize variables",
+        "loop through exponentiation",
+        "compute modular exponentiation",
+        "return result"
+    ],
+    "functionality": [
+        "data processing",
+        "user interaction",
+        "system control",
+        "function composition",
+        "data retrieval",
+        "mathematical computation",
+        "unsupervised out-of-distribution detection",
+        "model training",
+        "out-of-distribution detection",
+        "form handling",
+        "localization",
+        "math operations",
+        "higher-order functions",
+        "web page rendering",
+        "data visualization",
+        "web page generation",
+        "image comparison",
+        "testing",
+        "validation"
+    ],
+    "resource usage": [
+        "CPU Cycles",
+        "GPU ComputeOperations",
+        "Network Bandwidth"
+    ],
+    "computation operation": {
+        "mathematical operation": [
+            "addition",
+            "division",
+            "multiplication",
+            "modular exponentiation",
+            "cross entropy loss",
+            "standard deviation calculation",
+            "compute power flow"
+        ],
+        "algorithmic operation": [
+            "shuffling",
+            "data sampling",
+            "training step"
+        ],
+        "statistical operation": []
+    },
+    "user interaction": {
+        "display": [
+            "visualization with Visdom",
+            "data visualization",
+            "displaying full name in admin change list",
+            "plotting distribution"
+        ],
+        "UIComponents": [
+            "editable form field",
+            "admin change list form",
+            "responsive divs",
+            "image galleries",
+            "responsive div",
+            "gallery",
+            "image container"
+        ],
+        "Display": [
+            "render images",
+            "display project and layer names",
+            "embedding images",
+            "SVG manipulation"
+        ],
+        "userInput": [],
+        "user input": []
+    },
+    "data processing": {
+        "data preparation": [
+            "transform data",
+            "normalize data",
+            "data augmentation",
+            "normalization",
+            "initialize form with instance data",
+            "validate units",
+            "strip whitespace"
+        ],
+        "data retrieval": [
+            "fetching records",
+            "load CIFAR10 dataset",
+            "load MNIST dataset",
+            "loading datasets",
+            "retrieve instance initial data"
+        ],
+        "data transformation": [
+            "random horizontal flip",
+            "random crop",
+            "convert to tensor",
+            "normalize",
+            "tensor conversion",
+            "split name into first_name and last_name",
+            "split full name into first and last name",
+            "compose functions",
+            "apply function sequence",
+            "formatting HTML content",
+            "embedding dynamic values",
+            "convert to numpy array",
+            "parse XML"
+        ],
+        "data validation": [
+            "none",
+            "cleaned data",
+            "pattern matching",
+            "type checking",
+            "assert length",
+            "check required keys"
+        ],
+        "string manipulation": [
+            "concatenate first_name and last_name",
+            "split name string",
+            "find substring",
+            "replace characters"
+        ],
+        "Data Transformation": [],
+        "String Manipulation": []
+    },
+    "file operation": [
+        "model checkpoint saving",
+        "model checkpoint loading",
+        "gettext file compilation",
+        "gettext message extraction",
+        "message compilation",
+        "message extraction",
+        "file download"
+    ],
+    "dependency relations": [
+        "torch",
+        "torchvision",
+        "visdom",
+        "django",
+        "gettext",
+        "svg-pan-zoom",
+        "xml.etree.ElementTree",
+        "numpy",
+        "matplotlib",
+        "pandas"
+    ],
+    "algorithm": [
+        "Fast Modular Exponentiation",
+        "unsupervised out-of-distribution detection by maximum classifier discrepancy",
+        "Maximum Classifier Discrepancy",
+        "function composition",
+        "Quicksort"
+    ],
+    "advanced techniques": [
+        "Discrepancy Loss",
+        "learning rate scheduler",
+        "Unsupervised Learning",
+        "Out-of-distribution Detection",
+        "Machine Learning"
+    ],
+    "programming language": [
+        "Python",
+        "Clojure",
+        "HTML",
+        "JavaScript",
+        "CSS"
+    ],
+    "implementation style": [
+        "procedural",
+        "object-oriented",
+        "functional"
+    ],
+    "security": [
+        "authentication",
+        "cryptography"
+    ],
+    "error handling": [
+        "exception management",
+        "filter warnings",
+        "assertion",
+        "form validation"
+    ],
+    "logging": [
+        "plotting loss",
+        "logger creation"
+    ],
+    "data structures": [
+        "string",
+        "list",
+        "integer",
+        "tensor",
+        "dictionary",
+        "form",
+        "function",
+        "closure",
+        "JavaScript objects",
+        "model",
+        "HTML elements",
+        "CSS rules",
+        "HTML structure",
+        "CSS styles",
+        "dict"
+    ],
+    "implementation logic": [
+        "conditional",
+        "iterative",
+        "loop",
+        "event-driven",
+        "function call",
+        "nested closures",
+        "partial application",
+        "higher-order functions",
+        "function application"
+    ]
+}
