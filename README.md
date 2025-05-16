@@ -1,7 +1,9 @@
 # Project
 
 This repository contains the implementation of **Epicoder**, a pipeline designed for code instruction synthesis, encompassing diverse and complex code generation. This work is associated with the paper:  
-**[EpiCoder: Encompassing Diversity and Complexity in Code Generation](https://arxiv.org/abs/2501.04694).**  
+**[EpiCoder: Encompassing Diversity and Complexity in Code Generation](https://arxiv.org/abs/2501.04694).**  The data can be found in
+**[EpiCoder-func-380k on Hugging Face](https://huggingface.co/datasets/microsoft/EpiCoder-func-380k)**  
+
 
 ## Pipeline Overview  
 
